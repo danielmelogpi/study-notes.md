@@ -26,6 +26,7 @@ https://productivityist.simplecast.fm/episodes/88192362/the-daily-plan-bar-with-
 - Daily plan bar
     - Mike argues that you can get more connected with the tasks by writting them down
     - One technique: bullet journal
+    - Dayly plan bar: https://medium.com/rohdesign/the-daily-plan-bar-357972361096
     - Use the calendar to all the tasks in the day
 - This podcasts talks about very granular techniques. Not suitable for development
 

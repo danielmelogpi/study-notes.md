@@ -23,7 +23,11 @@ To be ignorant about what happened before you is to remain always a child
 - Read about Michelangello fortune -> he was not poor as common teachings are used to tell
 
 https://productivityist.simplecast.fm/episodes/88192362/the-daily-plan-bar-with-mike-rohde
-- 
+- Daily plan bar
+    - Mike argues that you can get more connected with the tasks by writting them down
+    - One technique: bullet journal
+    - Use the calendar to all the tasks in the day
+- This podcasts talks about very granular techniques. Not suitable for development
 
 Continuous delivery
 https://www.gocd.org/

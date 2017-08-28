@@ -10,7 +10,7 @@ Frameworks: things already decided.
 
  To be busy is not being effective
 
- - Cortisol
+- Cortisol
     - Cortisol supresses melatonin (sleep hormone)
     - Cortisol regulates Tireoid
     - Needs to be produced in the right time of the day

@@ -10,3 +10,6 @@ Nodejs
 
 - Graphana
     - Docker image: http://docs.grafana.org/installation/docker/
+
+- Monitor Postgres
+    https://www.postgresql.org/docs/9.4/static/monitoring-stats.html
